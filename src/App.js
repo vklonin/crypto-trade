@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { Card, CardContent } from '@/components/ui/card';
+import { Card, CardContent } from './components/ui/card';
 import { TradingChart } from './components/TradingChart';
 import { TradeHistory } from './components/TradeHistory';
 import { TradingControls } from './components/TradingControls';
